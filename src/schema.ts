@@ -10,7 +10,7 @@ type Product {
     description: String
     unitPrice: String!
     price: Float!,
-    imageName: String
+    imageUrl: String
 }
 `;
 
